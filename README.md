@@ -35,8 +35,8 @@ How to Build and Run: Makefile available in the repository is generated regardin
 	
     Programming Language:   C
     Compiler:               GCC
-    Test Platform(s):       ARM Cortex A8 h/w
-                            ARM Cortex A9 h/w
+    Test Platform(s):       ARM Cortex-A8 h/w
+                            ARM Cortex-A9 h/w
     Test OS:                Linux Ubuntu
                             Linux Debian	
 	
